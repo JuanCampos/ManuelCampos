@@ -1,0 +1,9 @@
+main {
+  background-image: url("img/iconos/fondo.png");
+  background-repeat: no-repeat;
+  background-position: 50% 135px;
+}
+
+h1 {
+  font-size: 40px;
+}

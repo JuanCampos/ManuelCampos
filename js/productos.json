@@ -168,7 +168,7 @@
         "imagen": "./img/electro/tv2.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -177,7 +177,7 @@
         "imagen": "./img/electro/tv3.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -186,7 +186,7 @@
         "imagen": "./img/electro/ventilador.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -195,7 +195,7 @@
         "imagen": "./img/electro/ventilador2.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -204,7 +204,7 @@
         "imagen": "./img/electro/cocina-chica.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -213,7 +213,7 @@
         "imagen": "./img/electro/cocina-indus.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -222,7 +222,7 @@
         "imagen": "./img/electro/cocina.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -231,7 +231,7 @@
         "imagen": "./img/electro/hornalla-elec.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -240,7 +240,7 @@
         "imagen": "./img/electro/horno-elec.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -249,7 +249,7 @@
         "imagen": "./img/electro/juego-llaves.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -258,7 +258,7 @@
         "imagen": "./img/electro/juego-llaves2.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -267,7 +267,7 @@
         "imagen": "./img/electro/lavadora.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -276,7 +276,7 @@
         "imagen": "./img/electro/lavarropas.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -285,7 +285,7 @@
         "imagen": "./img/electro/licuadora.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -294,7 +294,7 @@
         "imagen": "./img/electro/martillo.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -303,7 +303,7 @@
         "imagen": "./img/electro/microondas.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -312,7 +312,7 @@
         "imagen": "./img/electro/motosierra.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -321,7 +321,7 @@
         "imagen": "./img/electro/paellera.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -330,7 +330,7 @@
         "imagen": "./img/electro/pava.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -339,7 +339,7 @@
         "imagen": "./img/electro/pileta-chica.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -348,7 +348,7 @@
         "imagen": "./img/electro/pileta-grande.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -357,7 +357,7 @@
         "imagen": "./img/electro/pileta-mediana.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -366,7 +366,7 @@
         "imagen": "./img/electro/pulidora.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -375,7 +375,7 @@
         "imagen": "./img/electro/reposera.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -384,7 +384,7 @@
         "imagen": "./img/electro/secador.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -393,7 +393,7 @@
         "imagen": "./img/electro/secarropa.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -402,7 +402,7 @@
         "imagen": "./img/electro/set-ollas.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -411,7 +411,7 @@
         "imagen": "./img/electro/sierra.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -420,7 +420,7 @@
         "imagen": "./img/electro/soldador.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -429,7 +429,7 @@
         "imagen": "./img/electro/sommier-1.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -438,7 +438,7 @@
         "imagen": "./img/electro/sommier-2.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -447,7 +447,7 @@
         "imagen": "./img/electro/taladro.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -456,7 +456,7 @@
         "imagen": "./img/electro/termo.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     },
     {
@@ -465,7 +465,7 @@
         "imagen": "./img/electro/toallones.jpeg",
         "categoria": {
             "nombre": "Pantalones",
-            "id": "pantalones"
+            "id": "camisetas"
         }
     }
 ]

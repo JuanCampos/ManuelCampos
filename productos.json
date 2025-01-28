@@ -180,342 +180,342 @@
         "descripcion": "Smart TV RCA 50 pulgadas 4K QLED Android TV"
     },
     {
-        "id": "pantalon-01",
+        "id": "camiseta-09",
         "titulo": "TV 43 pulgadas",
         "imagen": "./img/electro/tv2.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Smart TV RCA 43 pulgadas Android TV"
     },
     {
-        "id": "pantalon-02",
+        "id": "camiseta-10",
         "titulo": "TV 32 pulgadas",
         "imagen": "./img/electro/tv3.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Smart TV NOBLEX 32 pulgadas Android TV"
     },
     {
-        "id": "pantalon-03",
+        "id": "camiseta-11",
         "titulo": "Ventilador Star Trak",
         "imagen": "./img/electro/ventilador.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Ventilador Star Trak 18 pulgadas 5 aspas 3 velocidades"
     },
     {
-        "id": "pantalon-04",
+       "id": "camiseta-12",
         "titulo": "Ventilador Delhi",
         "imagen": "./img/electro/ventilador2.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Ventilador Delhi 18 pulgadas 5 aspas 3 velocidades silencioso"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-13",
         "titulo": "Cocina chica",
         "imagen": "./img/electro/cocina-chica.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Mini cocina a gas 2 hornallas con horno"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-14",
         "titulo": "Cocina industrial",
         "imagen": "./img/electro/cocina-indus.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Cocina industrial a gas 4 hornallas con horno + plancha"  
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-15",
         "titulo": "Cocina",
         "imagen": "./img/electro/cocina.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Cocina Martiri Inox con parrilla de 4 hornallas"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-16",
         "titulo": "Anafe eléctrica",
         "imagen": "./img/electro/hornalla-elec.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Anfe doble Delhi eléctrica"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-17",
         "titulo": "Horno eléctrico",
         "imagen": "./img/electro/horno-elec.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Horno bonn 42Lts"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-18",
         "titulo": "Juego de tubos",
         "imagen": "./img/electro/juego-llaves.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Juego de llaves 106 Piezas"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-19",
         "titulo": "Juego de tubos",
         "imagen": "./img/electro/juego-llaves2.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Juego de llaves de 52 piezas"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-20",
         "titulo": "Lavarropas automático",
         "imagen": "./img/electro/lavadora.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Lavarropas Drean Next 6 Kilos 600RPM"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-21",
         "titulo": "Lavarropas",
         "imagen": "./img/electro/lavarropas.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Lavarropas de 6 programas, tapa translúcida, Sistema de lavado oriental, Capacidad de lavado 10kg, ruedas de traslado, Motor termoprotegido, Carga y descarga de agua"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-22",
         "titulo": "Licuadora",
         "imagen": "./img/electro/licuadora.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Licuadora de 4 velocidades"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-23",
         "titulo": "Demoledor hexagonal",
         "imagen": "./img/electro/martillo.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Demoledor hexagonal 1700W"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-24",
         "titulo": "Microondas",
         "imagen": "./img/electro/microondas.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Microondas Philco 20Lts"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-25",
         "titulo": "Motosierra",
         "imagen": "./img/electro/motosierra.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Motosierra Tinrox 58CC"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-26",
         "titulo": "Paellera eléctrica",
         "imagen": "./img/electro/paellera.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Paellera multiuso eléctrica 1400W"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-27",
         "titulo": "Pava eléctrica",
         "imagen": "./img/electro/pava.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Pava OSR hervidora"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-28",
         "titulo": "Pileta chica",
         "imagen": "./img/electro/pileta-chica.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Pileta de 1000Lts para niños, Largo: 1,89 metros. Ancho: 1,26 metros. Alto: 0,42 metros"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-29",
         "titulo": "Pileta grande",
         "imagen": "./img/electro/pileta-grande.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Pileta grande Largo: 4,40 metros. Ancho: 2,20 metros. Alto 0,80 metros."
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-30",
         "titulo": "Pileta mediana",
         "imagen": "./img/electro/pileta-mediana.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Pileta mediana Largo: 3,50 metros. Ancho: 2,10 metros. Alto: 0,83 metros"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-31",
         "titulo": "Pulidora",
         "imagen": "./img/electro/pulidora.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Lustralijadora (pulidora) 1500W Omaha"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-32",
         "titulo": "Reposera playera",
         "imagen": "./img/electro/reposera.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Reposera playera de aluminio"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-33",
         "titulo": "Secador de pelo",
         "imagen": "./img/electro/secador.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Secadora de cabello Suono 1600W 2 velocidades"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-34",
         "titulo": "Secarropa",
         "imagen": "./img/electro/secarropa.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Capacidad 6,5 kilos, sistema de seguridad para niños"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-35",
         "titulo": "Set de ollas",
         "imagen": "./img/electro/set-ollas.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Set de ollas Orix de ceramica con tapa de vidrio"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-36",
         "titulo": "Sierra circular",
         "imagen": "./img/electro/sierra.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Sierra circular Omaha 1250W "
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-37",
         "titulo": "Soldador inverter",
         "imagen": "./img/electro/soldador.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Falta poner"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-38",
         "titulo": "Sommier de 1 plaza",
         "imagen": "./img/electro/sommier-1.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Falta poner"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-39",
         "titulo": "Sommier de 2 plazas",
         "imagen": "./img/electro/sommier-2.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Sommier de 2 plazas Largo: 1,90 metros. Ancho: 1,40 metros. Alto: 0,28"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-40",
         "titulo": "Taladro percutor",
         "imagen": "./img/electro/taladro.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Taladro percutor Omaha, 2 baterias de 20V + cargador + maletín"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-41",
         "titulo": "Termo simil Stanley",
         "imagen": "./img/electro/termo.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Termo simil Stanley combo Termo + Mate"
     },
     {
-        "id": "pantalon-05",
+        "id": "camiseta-42",
         "titulo": "Toallones Franco Valente",
         "imagen": "./img/electro/toallones.jpeg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Camisetas",
+            "id": "camisetas"
         },
         "descripcion": "Toallones Franco Valente 1era calidad"
     }

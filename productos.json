@@ -31,7 +31,7 @@
         "descripcion": "Aspiradora industrial de 1300W 15L Suono"
     },
     {
-        "id": "pantalon-05",
+        "id": "pantalon-06",
         "titulo": "Diccionario Bíblico",
         "imagen": "./img/libro/diccionario-biblia.jpeg",
         "categoria": {
@@ -51,7 +51,7 @@
         "descripcion": "Balanza comercial sin mástil 40kg"
     },
     {
-        "id": "pantalon-05",
+        "id": "pantalon-07",
         "titulo": "Diccionario Médico",
         "imagen": "./img/libro/medicina.jpeg",
         "categoria": {
@@ -71,7 +71,7 @@
         "descripcion": "Desmalezadora naftera 52CC 3HP Omaha"
     },
     {
-        "id": "pantalon-05",
+        "id": "pantalon-08",
         "titulo": "Pediatría",
         "imagen": "./img/libro/medicina2.jpeg",
         "categoria": {
@@ -91,7 +91,7 @@
         "descripcion": "Samsung A04e 32GB 4GB RAM"
     },
     {
-        "id": "pantalon-05",
+        "id": "pantalon-09",
         "titulo": "Anatomía",
         "imagen": "./img/libro/medicina3.jpeg",
         "categoria": {

@@ -518,5 +518,125 @@
             "id": "camisetas"
         },
         "descripcion": "Toallones Franco Valente 1era calidad"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Sillón 3 cuerpos Blanco",
+        "imagen": "./img/electro/sillon1.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Sillón 3 cuerpos + reposa pies"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Sillón 4 cuerpos Negro",
+        "imagen": "./img/electro/sillon2.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Sillón 4 cuerpos esquinero"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Sillón 3 cuerpos Gris",
+        "imagen": "./img/electro/sillon3.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Sillón 3 cuerpos + reposa pies"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Equipo matero Stanley",
+        "imagen": "./img/electro/setstanley.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Equipo matero + Termo + Mate Stanley"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Aspiradora Industrial",
+        "imagen": "./img/electro/aspiradorag.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Aspiradora industrial"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Termo Stanley",
+        "imagen": "./img/electro/termostanley.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Termo stanley + Mate "
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Toallones Franco Valente",
+        "imagen": "./img/electro/morsa.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Morsa de banco fija, con yunque, apertura de 76mm"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Rotomartillo",
+        "imagen": "./img/electro/rotomartillo.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Rotomartillo + 6 mechas para pared"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Licuadora Retro",
+        "imagen": "./img/electro/licuadoras.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Licuadora estilo Retro"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Sabanas King",
+        "imagen": "./img/electro/sabana.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Sábanas Goldsun KING"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Freidora de Aire",
+        "imagen": "./img/electro/freidora1.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Freidora de Aire Capacidad 5 Litros"
+    },
+    {
+        "id": "camiseta-42",
+        "titulo": "Freidora de Aire",
+        "imagen": "./img/electro/freidora2.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Freidora de aire Capacidad 2 Litros"
     }
 ]

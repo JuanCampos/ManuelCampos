@@ -490,6 +490,16 @@
         "descripcion": "Sommier de 2 plazas Largo: 1,90 metros. Ancho: 1,40 metros. Alto: 0,28"
     },
     {
+        "id": "camiseta-55",
+        "titulo": "Sommier de 2 plazas",
+        "imagen": "./img/electro/sommiercaro.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "descripcion": "Sommier de 2 plazas Largo: 1,90 metros. Ancho: 1,40 metros. Alto: 0,28"
+    },
+    {
         "id": "camiseta-40",
         "titulo": "Taladro percutor",
         "imagen": "./img/electro/taladro.jpeg",
